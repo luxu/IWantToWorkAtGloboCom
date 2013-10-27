@@ -1,19 +1,123 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Plataforma de Cadastro
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+>>>>>LUCIANO DA SILVA MARTINS   
+>>>>> zicadopv@gmail.com  
+>>>>> Contato: (18)3903-7028 Cel: (18)8806-3287 
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+___
+**SUMÁRIO**
+
+**Conhecimento em IDEs:** Eclipse, Visual Studio, Netbeans  
+**Sistemas Operacionais:** Windows, Linux  
+**Linguagens:** Java, C++, C# (básico), PHP  
+**Bancos de Dados:**Firebird, MySQL, DB2, PostgreSQL  
+**Programação de edição:** PageMaker, CorelDraw, Photoshop.
+____
+**SITES PESSOAIS**
+
+**Blog:** [wordpress/zicadopv]  
+**Github:** [luxu]  
+**LinkedIn:** [zicadopv]
+
+___
+**EXPERIÊNCIA PROFISSIONAL**
+	
+Sistema Comercial PIZZARIA LA GULLA  
+**Duração:** 6 meses				
+**Início:** 08/08/2013				
+**Fim:** Dias atuais  
+**Tecnologia:** JAVA/Desktop  
+**Responsabilidades:** Estou desenvolvendo um sistema que fará o cadastro dos clientes, bairros, Usuário e Produto que serão usadas para fazer a abertura de um pedido para um cliente e seu fechamento, controlará as despesas diária com a inserção dos dados pelo cliente e alguns relatórios para conferência de como estão os processos no comércio. Sistema está sendo feito ainda na linguagem JAVA/Desktop.       
+Algumas telas podem ser conferidas no repositório abaixo.  
+**Código-Fonte:** [Pizzaria La Gulla]				
+
+Projeto Pessoal Empresa Mackinson  
+**Duração:** 6 meses				
+**Início:** 19/12/2012				
+**Fim:** 30/06/2013  
+**Tecnologia:** PHP  				
+**Responsabilidades:** Desenvolvi um aplicativo que usava para controlar meus serviços de quando trabalhava na empresa Mackison como Técnico de POS, software esse que acessava via celular e inseria os dados de quantas máquinas tinha feito no dia, se tinha gasto com concerto do carro ou da moto e troca de peças e alguns relatórios para conferência desses dados passados.  
+**Site:** [Mackison]
+(login e senha: admin)				
+**Código-Fonte:** [github.com/luxu/SiteResponsive]
+
+Estágio Simulador de JOGOS DE EMPRESA  
+**Duração:** 1 ano				
+**Início:** 07/08/2012				
+**Fim:** 30/11/2012  
+**Tecnologia:** PHP/Zend Framework  
+**Responsabilidades:** Desenvolver um sistema voltado para o Curso de Administração onde o mesmo deve auxiliar os acadêmicos a vivenciar na prática o que eles aprenderam na teoria, como: tomada de decisões, melhores estratégias, controle dos recursos e um emprego nas partes essenciais da empresa virtual.  
+**Código-Fonte:** [github.com/luxu/JogosDeEmpresa]
+					
+Estágio STUDIO PILATES  
+**Duração:** 2 anos				
+**Início:** 01/08/2010				
+**Fim:** 31/07/2012  
+**Tecnologia:** JAVA/JSF/Hibernate  
+**Responsabilidades:** Sistema para controle de Frequência, Turma, Aluno, Mensalidade. Apresentar uma solução prática para implementar e ajudar a proprietária no desempenho do seu negócio.  
+**Código-Fonte:** [github.com/luxu/StudioPilates]
+
+Técnico de Informática  
+**Duração:**6 anos				
+**Início:** 05/04/2005				
+**Fim:** Dias Atuais				
+**Responsabilidades:** Instalação, Manutenção e Consultoria em Computadores. Resolver possíveis problemas que os computadores apresentam(vírus, lentidão, instabilidades, etc) de uma maneira prática e de forma rápida em alguns casos sugerindo trocas ou melhorias nos microcomputadores em geral.
+
+Stefanini IT Solutions (Esso)  
+**Duração:** 1 mês				
+**Início:** 01/08/2008				
+**Fim:** 04/09/2008				
+**Responsabilidades:** 
+A empresa supracitada foi designada na forma de minha pessoa para fazer a migração do sistema para a nova plataforma remotamente ficando sobre minha responsabilidade auxiliar no que fosse preciso para os técnicos que se encontravam nos Estados Unidos informando sempre se ocorresse algum contratempo. O  trabalho foi realizado em 4 finais de semana com êxito total.
+
+PEOPLE Informática					
+**Duração:** 1,5 anos				
+**Início:** 10/08/1996				
+**Fim:** 12/12/1997				
+**Responsabilidades:**
+Instrutor de Informática que ajudou vários alunos serem encaminhados para o mercado de trabalho e tendo como diferencial o curso de informática. Nesse mesmo período também vi outros alunos seguirem carreira como profissionais de informática e definindo o curso como um colaborador decisivo nessa escolha. Ministrava as aulas de: Windows 95, Office 2007,  PageMaker, CorelDraw.
+
+---
+**FORMAÇÃO**  
+Graduado em Sistemas de Informação(Dez/2012)  
+**Faculdade:** UNIESP/FAPEPE(Presidente Prudente)  
+**Formação:** Analista de Sistemas.
+
+---
+**Treinamentos técnicos:**  
+Clipper(People Informática – 20 horas)	05/1997
+
+---
+**MINI-CURSOS**
+
+* Criação de tema para Wordpress (SEINFO – 4 horas)	10/2012
+* Virtualização de Sistemas Operacionais utilizando o Virtual Box	10/2010
+* Futebol de Robôs	09/2010
+* JSF – Desenvolvimento Visual (UNOESTE – 3,5 horas)	05/2010
+* Desenvolvimento WEB utilizando o framework Scriptcase (PHP) (UNOESTE – 6 horas)	05/2010
+* Open Solaris e Virtualização (INFOESTE – 1,5 horas)	05/2009
+* PHP (SECOMPP – 8 horas)	10/2008
+* Redes (Linux) (SECOMPP – 4 horas)	10/2008
+* Introdução ao Delphi(INFOESTE – 3 horas)	05/2008
+* HTML e CSS (INFOESTE – 3,5 horas)	05/2007
+* Reconhecimento Automático de Impressões Digitais (ERI – 10 horas)	08/2007
+	
+---
+**INFORMAÇÕES COMPLEMENTARES**
+
+* Certificado de Oratória (Língua Brasileira – 12 horas)	10/2007
+
+[Pizzaria La Gulla]:https://github.com/luxu/pizzarialagulla
+[Mackison]: http://www.luxu.com.br/Mackison
+[github.com/luxu/SiteResponsive]: https://github.com/luxu/SiteResponsive
+[github.com/luxu/JogosDeEmpresa]: https://github.com/luxu/JogosDeEmpresa
+[github.com/luxu/StudioPilates]:https://github.com/luxu/StudioPilates
+[zicadopv]:http://lnkd.in/bAiAYtw
+[luxu]: https://github.com/luxu/
+[wordpress/zicadopv]:http://zicadopv.wordpress.com
